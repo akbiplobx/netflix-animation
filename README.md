@@ -1,2 +1,2 @@
 # netflix-animation
-https://akbiplobs.github.io/netflix-animation/
+https://akbiplobx.github.io/netflix-animation/
